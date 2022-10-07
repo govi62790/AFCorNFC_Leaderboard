@@ -1,0 +1,54 @@
+{
+    "user": [
+        {
+            "initials": "JNG",
+            "numberCorrect": 32,
+            "timeElapsed": 24.903847903595307
+        },
+        {
+            "initials": "ABC",
+            "numberCorrect": 0,
+            "timeElapsed": 90.0
+        },
+        {
+            "initials": "ABC",
+            "numberCorrect": 0,
+            "timeElapsed": 90.0
+        },
+        {
+            "initials": "ABC",
+            "numberCorrect": 0,
+            "timeElapsed": 90.0
+        },
+        {
+            "initials": "ABC",
+            "numberCorrect": 0,
+            "timeElapsed": 90.0
+        },
+        {
+            "initials": "ABC",
+            "numberCorrect": 0,
+            "timeElapsed": 90.0
+        },
+        {
+            "initials": "ABC",
+            "numberCorrect": 0,
+            "timeElapsed": 90.0
+        },
+        {
+            "initials": "ABC",
+            "numberCorrect": 0,
+            "timeElapsed": 90.0
+        },
+        {
+            "initials": "ABC",
+            "numberCorrect": 0,
+            "timeElapsed": 90.0
+        },
+        {
+            "initials": "ABC",
+            "numberCorrect": 0,
+            "timeElapsed": 90.0
+        }
+    ]
+}
